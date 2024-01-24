@@ -19,4 +19,8 @@ These datasets are available at below mentioned sites:
 
 As the dataset is compiled from diverse sources, careful measures have been taken to address potential class imbalances. A total of 10 crops were selected, with two primary diseases challenging farmers in identification and an additional healthy class for each crop. This classification structure results in a total of 30 classes within the dataset. Each class was curated with a substantial collection of 1500 images under different light settings.  This deliberate effort toward balance is crucial in preventing biases in the deep learning model. A balanced dataset ensures that the model is exposed to an equitable representation of different classes, thereby enhancing its ability to make accurate predictions across all categories. Additionally, considering the disparate sizes of images collected from various sources, all the images have been standardized by resizing all dimensions to a uniform 196x196 pixel format. This not only streamlines computational efficiency but also ensures consistent model interpretation across varied image scales.
 
+Below is the image containg the sample of the dataset and the classes considered
 ![image](https://github.com/r1p2/Plant-disease-detection/assets/20014921/74beb1d9-0ccb-4c17-ab6d-8a70bee79444)
+
+![image](https://github.com/r1p2/Plant-disease-detection/assets/20014921/fac124f1-3050-44bd-ac4f-dd32963851de)
+
